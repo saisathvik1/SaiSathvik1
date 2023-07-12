@@ -6,7 +6,7 @@ Hey there! I'm **Sai Sathvik Ruppa**, a passionate cybersecurity professional sp
 - :tv: On my YouTube channel, [Sathvik Techtuber](https://www.youtube.com/@SathvikTechtuber), I have over **10,000** subscribers and have uploaded 300+ videos on topics like OSINT, penetration testing, bug bounty, and tool development.
 - :octocat: I'm an active GitHub user, and you can find some of my featured repositories below.
 
-Feel free to connect with me on LinkedIn and Twitter, subscribe to my YouTube channel, and explore my GitHub repositories. Let's collaborate and make a difference in the world of cybersecurity! :rocket:
+Feel free to connect with me on LinkedIn and Twitter. Let's collaborate and make a difference in the world of cybersecurity! :rocket:
 
 ## :octocat: Featured Repositories
 
