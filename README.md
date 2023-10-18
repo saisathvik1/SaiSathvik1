@@ -6,12 +6,13 @@ Hey there! I'm **Sai Sathvik Ruppa**, a passionate cybersecurity professional sp
 - :tv: On my YouTube channel, [Sathvik Techtuber](https://www.youtube.com/@SathvikTechtuber), I have over **10,000** subscribers and have uploaded 300+ videos on topics like OSINT, penetration testing, bug bounty, and tool development.
 - :octocat: I'm an active GitHub user, and you can find some of my featured repositories below.
 
-Feel free to connect with me on LinkedIn and Twitter. Let's collaborate and make a difference in the world of cybersecurity! :rocket:
+Please feel free to reach out to me on LinkedIn and Twitter. Let's collaborate and make a difference in the world of cybersecurity! :rocket:
 
 ## :octocat: Featured Repositories
 
-- [Linux Privilege Escalation Notes](https://github.com/saisathvik1/Linux-Privilege-Escalation-Notes) - My Linux Privilege Escalation notes for OSCP preparation.
-- [Windows Privilege Escalation Notes](https://github.com/saisathvik1/Windows-Privilege-Escalation-Notes) - My OSCP Windows Privilege Escalation Handbook.
+- [OSCP Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet I used during my OSCP preparation.
+- [Linux Privilege Escalation Notes](https://github.com/saisathvik1/Linux-Privilege-Escalation-Notes) - Linux Privilege Escalation notes.
+- [Windows Privilege Escalation Notes](https://github.com/saisathvik1/Windows-Privilege-Escalation-Notes) - Windows Privilege Escalation Notes.
 
 ## :clapper: Featured Playlists
 
@@ -24,4 +25,4 @@ Check out some of the curated playlists from my YouTube channel:
 
 > Check out my channel for more playlists on various cybersecurity topics: [Other Playlists](https://www.youtube.com/@SathvikTechtuber/playlists).
 
-Feel free to explore these playlists and enhance your knowledge in various cybersecurity domains. Don't forget to :bell: subscribe to my channel for more valuable content!
+You can explore these playlists and enhance your knowledge in various cybersecurity domains. Don't forget to :bell: subscribe to my channel for more valuable content!
