@@ -8,6 +8,12 @@ Hey there! I'm **Sai Sathvik Ruppa**, a passionate cybersecurity professional sp
 
 Please feel free to reach out to me on LinkedIn and Twitter. Let's collaborate and make a difference in the world of cybersecurity! :rocket:
 
+## :heavy_check_mark: Certifications
+
+- Certified Ethical Hacker (CEH) Master :white_check_mark:
+- Professional in Penetration Testing (PNPT) :white_check_mark:
+- Offensive Security Certified Professional (OSCP) :hourglass_flowing_sand:
+
 ## :octocat: Featured Repositories
 
 - [OSCP Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet I used during my OSCP preparation.
