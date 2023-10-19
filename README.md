@@ -11,7 +11,7 @@ Please feel free to reach out to me on LinkedIn and Twitter. Let's collaborate a
 ## :heavy_check_mark: Certifications
 
 - Certified Ethical Hacker (CEH) Master :white_check_mark:
-- Professional in Penetration Testing (PNPT) :white_check_mark:
+- Practical Network Penetration Tester (PNPT) :white_check_mark:
 - Offensive Security Certified Professional (OSCP) :hourglass_flowing_sand:
 
 ## :octocat: Featured Repositories
